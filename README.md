@@ -16,3 +16,6 @@ sS 暂停GIF（Suspend GIF）
 Function:
 Hover the mouse to preview the complete image, support image rotation, and display illustration information in the corner: PID、 Page count and publication date.
 Multiple images can be flipped; Enhance GIF preview and support pausing frame by frame flipping.
+
+![1](https://github.com/user-attachments/assets/f94b2c5b-604f-41a0-82e7-92d8808d55f5)
+![2](https://github.com/user-attachments/assets/a8f7eda7-567c-4dfd-b612-be73be5227f4)
