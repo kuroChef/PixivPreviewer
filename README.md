@@ -1,6 +1,12 @@
-# PixivPreviewer(Light)
+# 安装脚本 (Install Script)
+
+greasyfork：https://greasyfork.org/scripts/520514
+
+
+# Pixiv预览器（轻量级）
 
 用于Pixiv的轻量级插画预览器。
+无需进入作品页即可预览插画！
 
 快捷键：
 - alt+z 开关预览
@@ -17,7 +23,10 @@
 
 <hr>
 
+# PixivPreviewer (Light)
+
 A lightweight illustration previewer for Pixiv.
+Preview illustrations without entering the work page!
 
 Shortcut keys：
 - alt+z Switch preview
