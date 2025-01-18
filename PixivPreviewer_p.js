@@ -3,25 +3,23 @@
 // @name:en            PixivPreviewer(Light)
 // @namespace          https://greasyfork.org/zh-CN/users/866669-shikataganai
 // @author             shikataganai
-// @version            1.03
-// @description        Pixiv 插画预览器（轻量级），可快速预览单图、多图、动图，支持快捷键旋转图片、翻页、GIF暂停、GIF逐帧翻页、复制图片ID等
-// @description:en     Pixiv image previewer (Light), Quick preview single, multiple, and GIF, Support shortcut keys to rotate images, flip pages, pause GIFs, flip GIFs frame by frame, copy image IDs, etc
+// @version            1.04
+// @description        Pixiv 插画预览器（轻量级），无需进入作品页即可：快速预览单图、多图、动图，支持快捷键旋转图片、翻页、GIF暂停、GIF逐帧翻页、复制图片ID等
+// @description:en     Pixiv image previewer (Light), No need to enter the artwork page: quick preview of single images, multiple images, dynamic images, support shortcut keys to rotate images, flip pages, pause GIFs, flip GIFs frame by frame, copy image IDs, etc
 // @license            MIT
 // @supportURL         https://github.com/kuroChef/PixivPreviewer
 // @icon               https://www.pixiv.net/favicon.ico
 // @match              https://www.pixiv.net/*
 // ==/UserScript==
 
-/* 6.32->1.03
-用于Pixiv的轻量级插画预览器。
-
-快捷键：
-- alt+z 开关预览
-- alt+c 悬停时复制插画PID
-- qQeE 旋转图片
-- aA← 上一页
-- dD→ 下一页
-- sS 暂停/播放GIF
+/* 6.33->1.04
+快捷键（Shortcut keys）：
+- alt+z 开关预览（Switch preview）
+- alt+c 悬停时复制插画PID（Copy illustration PID when hovering）
+- qQeE 旋转图片（Rotate Image）
+- aA← 上一页（Previous Page）
+- dD→ 下一页（Next page）
+- sS 暂停/播放GIF（Suspend/Play GIF）
 */
 
 class QPreviewer {
